@@ -1,0 +1,551 @@
+09002	Azcapotzalco	C
+09003	Coyoacán	C
+09004	Cuajimalpa de Morelos	C
+09005	Gustavo A. Madero	C
+09006	Iztacalco	C
+09007	Iztapalapa	C
+09008	La Magdalena Contreras	C
+09009	Milpa Alta	C
+09010	Álvaro Obregón	C
+09011	Tláhuac	C
+09012	Tlalpan	C
+09013	Xochimilco	C
+09014	Benito Juárez	C
+09015	Cuauhtémoc	C
+09016	Miguel Hidalgo	C
+09017	Venustiano Carranza	C
+12015	Buenavista de Cuéllar	C
+12055	Taxco de Alarcón	C
+12060	Tetipac	C
+12037	Ixcateopan de Cuauhtémoc	C
+12049	Pilcaya	C
+13001	Acatlán	C
+13002	Acaxochitlán	C
+13003	Actopan	C
+13004	Agua Blanca de Iturbide	C
+13005	Ajacuba	C
+13006	Alfajayucan	C
+13007	Almoloya	C
+13008	Apan	C
+13009	El Arenal	C
+13010	Atitalaquia	C
+13012	Atotonilco el Grande	C
+13013	Atotonilco de Tula	C
+13014	Calnali	C
+13015	Cardonal	C
+13016	Cuautepec de Hinojosa	C
+13017	Chapantongo	C
+13018	Chapulhuacán	C
+13019	Chilcuautla	C
+13020	Eloxochitlán	C
+13021	Emiliano Zapata	C
+13022	Epazoyucan	C
+13023	Francisco I. Madero	C
+13024	Huasca de Ocampo	C
+13026	Huazalingo	C
+13027	Huehuetla	C
+13029	Huichapan	C
+13030	Ixmiquilpan	C
+13031	Jacala de Ledezma	C
+13032	Jaltocán	C
+13033	Juárez Hidalgo	C
+13034	Lolotla	C
+13035	Metepec	C
+13036	San Agustín Metzquititlán	C
+13037	Metztitlán	C
+13038	Mineral del Chico	C
+13039	Mineral del Monte	C
+13040	La Misión	C
+13041	Mixquiahuala de Juárez	C
+13042	Molango de Escamilla	C
+13043	Nicolás Flores	C
+13044	Nopala de Villagrán	C
+13045	Omitlán de Juárez	C
+13046	San Felipe Orizatlán	C
+13047	Pacula	C
+13048	Pachuca de Soto	C
+13049	Pisaflores	C
+13050	Progreso de Obregón	C
+13051	Mineral de la Reforma	C
+13052	San Agustín Tlaxiaca	C
+13053	San Bartolo Tutotepec	C
+13054	San Salvador	C
+13055	Santiago de Anaya	C
+13056	Santiago Tulantepec de Lugo Guerrero	C
+13057	Singuilucan	C
+13058	Tasquillo	C
+13059	Tecozautla	C
+13060	Tenango de Doria	C
+13061	Tepeapulco	C
+13062	Tepehuacán de Guerrero	C
+13063	Tepeji del Río de Ocampo	C
+13064	Tepetitlán	C
+13083	Zempoala	C
+13084	Zimapán	C
+13065	Tetepango	C
+13066	Villa de Tezontepec	C
+13067	Tezontepec de Aldama	C
+13068	Tianguistengo	C
+13069	Tizayuca	C
+13070	Tlahuelilpan	C
+13071	Tlahuiltepa	C
+13072	Tlanalapa	C
+13073	Tlanchinol	C
+13074	Tlaxcoapan	C
+13075	Tolcayuca	C
+13076	Tula de Allende	C
+13077	Tulancingo de Bravo	C
+13079	Xochicoatlán	C
+13080	Yahualica	C
+13081	Zacualtipán de Ángeles	C
+13082	Zapotlán de Juárez	C
+15001	Acambay de Ruíz Castañeda	C
+15002	Acolman	C
+15003	Aculco	C
+15004	Almoloya de Alquisiras	C
+15005	Almoloya de Juárez	C
+15006	Almoloya del Río	C
+15007	Amanalco	C
+15008	Amatepec	C
+15009	Amecameca	C
+15010	Apaxco	C
+15011	Atenco	C
+15012	Atizapán	C
+15013	Atizapán de Zaragoza	C
+15014	Atlacomulco	C
+15015	Atlautla	C
+15016	Axapusco	C
+15017	Ayapango	C
+15018	Calimaya	C
+15019	Capulhuac	C
+15020	Coacalco de Berriozábal	C
+15021	Coatepec Harinas	C
+15022	Cocotitlán	C
+15023	Coyotepec	C
+15024	Cuautitlán	C
+15025	Chalco	C
+15026	Chapa de Mota	C
+15027	Chapultepec	C
+15028	Chiautla	C
+15029	Chicoloapan	C
+15030	Chiconcuac	C
+15031	Chimalhuacán	C
+15032	Donato Guerra	C
+15033	Ecatepec de Morelos	C
+15034	Ecatzingo	C
+15035	Huehuetoca	C
+15036	Hueypoxtla	C
+15037	Huixquilucan	C
+15038	Isidro Fabela	C
+15039	Ixtapaluca	C
+15040	Ixtapan de la Sal	C
+15041	Ixtapan del Oro	C
+15042	Ixtlahuaca	C
+15043	Xalatlaco	C
+15044	Jaltenco	C
+15045	Jilotepec	C
+15046	Jilotzingo	C
+15047	Jiquipilco	C
+15048	Jocotitlán	C
+15049	Joquicingo	C
+15050	Juchitepec	C
+15051	Lerma	C
+15052	Malinalco	C
+15069	Papalotla	C
+15070	La Paz	C
+15071	Polotitlán	C
+15072	Rayón	C
+15073	San Antonio la Isla	C
+15074	San Felipe del Progreso	C
+15075	San Martín de las Pirámides	C
+15053	Melchor Ocampo	C
+15054	Metepec	C
+15091	Teoloyucan	C
+15092	Teotihuacán	C
+15093	Tepetlaoxtoc	C
+15094	Tepetlixpa	C
+15095	Tepotzotlán	C
+15096	Tequixquiac	C
+15097	Texcaltitlán	C
+15055	Mexicaltzingo	C
+15056	Morelos	C
+15057	Naucalpan de Juárez	C
+15058	Nezahualcóyotl	C
+15059	Nextlalpan	C
+15060	Nicolás Romero	C
+15061	Nopaltepec	C
+15062	Ocoyoacac	C
+15063	Ocuilan	C
+15065	Otumba	C
+15066	Otzoloapan	C
+15067	Otzolotepec	C
+15068	Ozumba	C
+15102	Timilpan	C
+15103	Tlalmanalco	C
+15104	Tlalnepantla de Baz	C
+15105	Tlatlaya	C
+15106	Toluca	C
+15107	Tonatico	C
+15108	Tultepec	C
+15109	Tultitlán	C
+15110	Valle de Bravo	C
+15112	Villa del Carbón	C
+15113	Villa Guerrero	C
+15114	Villa Victoria	C
+15115	Xonacatlán	C
+15116	Zacazonapan	C
+15117	Zacualpan	C
+15118	Zinacantepec	C
+15119	Zumpahuacán	C
+15120	Zumpango	C
+15121	Cuautitlán Izcalli	C
+15076	San Mateo Atenco	C
+15077	San Simón de Guerrero	C
+15078	Santo Tomás	C
+15079	Soyaniquilpan de Juárez	C
+15080	Sultepec	C
+15081	Tecámac	C
+15082	Tejupilco	C
+15122	Valle de Chalco Solidaridad	C
+15123	Luvianos	C
+15083	Temamatla	C
+15084	Temascalapa	C
+15085	Temascalcingo	C
+15086	Temascaltepec	C
+15087	Temoaya	C
+15088	Tenancingo	C
+15089	Tenango del Aire	C
+15090	Tenango del Valle	C
+15098	Texcalyacac	C
+15099	Texcoco	C
+15100	Tezoyuca	C
+15101	Tianguistenco	C
+15125	Tonanitla	C
+17001	Amacuzac	C
+17002	Atlatlahucan	C
+17003	Axochiapan	C
+17004	Ayala	C
+17005	Coatlán del Río	C
+17006	Cuautla	C
+17007	Cuernavaca	C
+17008	Emiliano Zapata	C
+17009	Huitzilac	C
+17010	Jantetelco	C
+17011	Jiutepec	C
+17012	Jojutla	C
+17013	Jonacatepec de Leandro Valle	C
+17014	Mazatepec	C
+17015	Miacatlán	C
+17016	Ocuituco	C
+17017	Puente de Ixtla	C
+17018	Temixco	C
+17019	Tepalcingo	C
+17020	Tepoztlán	C
+17021	Tetecala	C
+17022	Tetela del Volcán	C
+17023	Tlalnepantla	C
+17024	Tlaltizapán de Zapata	C
+17025	Tlaquiltenango	C
+17026	Tlayacapan	C
+17027	Totolapan	C
+17028	Xochitepec	C
+17029	Yautepec	C
+17030	Yecapixtla	C
+17031	Zacatepec	C
+17032	Zacualpan de Amilpas	C
+17033	Temoac	C
+17034	Coatetelco	C
+17035	Xoxocotla	C
+17036	Hueyapan	C
+20022	Cosoltepec	C
+21001	Acajete	C
+21002	Acateno	C
+21003	Acatlán	C
+21004	Acatzingo	C
+21005	Acteopan	C
+21006	Ahuacatlán	C
+21007	Ahuatlán	C
+21008	Ahuazotepec	C
+21009	Ahuehuetitla	C
+21010	Ajalpan	C
+21011	Albino Zertuche	C
+21012	Aljojuca	C
+21013	Altepexi	C
+21014	Amixtlán	C
+21015	Amozoc	C
+21016	Aquixtla	C
+21017	Atempan	C
+21018	Atexcal	C
+21019	Atlixco	C
+21020	Atoyatempan	C
+21021	Atzala	C
+21022	Atzitzihuacán	C
+21023	Atzitzintla	C
+21024	Axutla	C
+21025	Ayotoxco de Guerrero	C
+21026	Calpan	C
+21027	Caltepec	C
+21053	Chignahuapan	C
+21028	Camocuautla	C
+21029	Caxhuacan	C
+21054	Chignautla	C
+21055	Chila	C
+21056	Chila de la Sal	C
+21057	Honey	C
+21058	Chilchotla	C
+21059	Chinantla	C
+21030	Coatepec	C
+21031	Coatzingo	C
+21032	Cohetzala	C
+21033	Cohuecan	C
+21060	Domingo Arenas	C
+21061	Eloxochitlán	C
+21034	Coronango	C
+21035	Coxcatlán	C
+21036	Coyomeapan	C
+21037	Coyotepec	C
+21062	Epatlán	C
+21063	Esperanza	C
+21038	Cuapiaxtla de Madero	C
+21039	Cuautempan	C
+21040	Cuautinchán	C
+21041	Cuautlancingo	C
+21042	Cuayuca de Andrade	C
+21043	Cuetzalan del Progreso	C
+21044	Cuyoaco	C
+21045	Chalchicomula de Sesma	C
+21046	Chapulco	C
+21047	Chiautla	C
+21048	Chiautzingo	C
+21049	Chiconcuautla	C
+21050	Chichiquila	C
+21051	Chietla	C
+21052	Chigmecatitlán	C
+21065	General Felipe Ángeles	C
+21066	Guadalupe	C
+21067	Guadalupe Victoria	C
+21068	Hermenegildo Galeana	C
+21069	Huaquechula	C
+21070	Huatlatlauca	C
+21071	Huauchinango	C
+21072	Huehuetla	C
+21073	Huehuetlán el Chico	C
+21074	Huejotzingo	C
+21075	Hueyapan	C
+21076	Hueytamalco	C
+21077	Hueytlalpan	C
+21078	Huitzilan de Serdán	C
+21079	Huitziltepec	C
+21097	Mixtla	C
+21098	Molcaxac	C
+21099	Cañada Morelos	C
+21100	Naupan	C
+21101	Nauzontla	C
+21102	Nealtican	C
+21103	Nicolás Bravo	C
+21104	Nopalucan	C
+21105	Ocotepec	C
+21106	Ocoyucan	C
+21107	Olintla	C
+21108	Oriental	C
+21109	Pahuatlán	C
+21110	Palmar de Bravo	C
+21112	Petlalcingo	C
+21113	Piaxtla	C
+21114	Puebla	C
+21115	Quecholac	C
+21116	Quimixtlán	C
+21080	Atlequizayan	C
+21081	Ixcamilpa de Guerrero	C
+21082	Ixcaquixtla	C
+21083	Ixtacamaxtitlán	C
+21084	Ixtepec	C
+21085	Izúcar de Matamoros	C
+21087	Jolalpan	C
+21088	Jonotla	C
+21140	San Pedro Cholula	C
+21141	San Pedro Yeloixtlahuaca	C
+21090	Juan C. Bonilla	C
+21142	San Salvador el Seco	C
+21143	San Salvador el Verde	C
+21091	Juan Galindo	C
+21092	Juan N. Méndez	C
+21093	Lafragua	C
+21094	Libres	C
+21198	Xicotlán	C
+21199	Xiutetelco	C
+21095	La Magdalena Tlatlauquitepec	C
+21096	Mazapiltepec de Juárez	C
+21200	Xochiapulco	C
+21201	Xochiltepec	C
+21202	Xochitlán de Vicente Suárez	C
+21203	Xochitlán Todos Santos	C
+21204	Yaonáhuac	C
+21205	Yehualtepec	C
+21206	Zacapala	C
+21207	Zacapoaxtla	C
+21208	Zacatlán	C
+21209	Zapotitlán	C
+21117	Rafael Lara Grajales	C
+21210	Zapotitlán de Méndez	C
+21211	Zaragoza	C
+21212	Zautla	C
+21118	Los Reyes de Juárez	C
+21119	San Andrés Cholula	C
+21120	San Antonio Cañada	C
+21121	San Diego la Mesa Tochimiltzingo	C
+21122	San Felipe Teotlalcingo	C
+21123	San Felipe Tepatlán	C
+21124	San Gabriel Chilac	C
+21125	San Gregorio Atzompa	C
+21126	San Jerónimo Tecuanipan	C
+21127	San Jerónimo Xayacatlán	C
+21128	San José Chiapa	C
+21129	San José Miahuatlán	C
+21130	San Juan Atenco	C
+21131	San Juan Atzompa	C
+21132	San Martín Texmelucan	C
+21133	San Martín Totoltepec	C
+21134	San Matías Tlalancaleca	C
+21135	San Miguel Ixitlán	C
+21136	San Miguel Xoxtla	C
+21137	San Nicolás Buenos Aires	C
+21138	San Nicolás de los Ranchos	C
+21139	San Pablo Anicano	C
+21144	San Salvador Huixcolotla	C
+21145	San Sebastián Tlacotepec	C
+21146	Santa Catarina Tlaltempan	C
+21147	Santa Inés Ahuatempan	C
+21148	Santa Isabel Cholula	C
+21149	Santiago Miahuatlán	C
+21150	Huehuetlán el Grande	C
+21151	Santo Tomás Hueyotlipan	C
+21152	Soltepec	C
+21153	Tecali de Herrera	C
+21154	Tecamachalco	C
+21155	Tecomatlán	C
+21156	Tehuacán	C
+21157	Tehuitzingo	C
+21158	Tenampulco	C
+21159	Teopantlán	C
+21160	Teotlalco	C
+21161	Tepanco de López	C
+21162	Tepango de Rodríguez	C
+21163	Tepatlaxco de Hidalgo	C
+21164	Tepeaca	C
+21165	Tepemaxalco	C
+21166	Tepeojuma	C
+21167	Tepetzintla	C
+21168	Tepexco	C
+21169	Tepexi de Rodríguez	C
+21170	Tepeyahualco	C
+21171	Tepeyahualco de Cuauhtémoc	C
+21172	Tetela de Ocampo	C
+21173	Teteles de Ávila Castillo	C
+21174	Teziutlán	C
+21175	Tianguismanalco	C
+21176	Tilapa	C
+21177	Tlacotepec de Benito Juárez	C
+21178	Tlacuilotepec	C
+21179	Tlachichuca	C
+21180	Tlahuapan	C
+21181	Tlaltenango	C
+21182	Tlanepantla	C
+21183	Tlaola	C
+21184	Tlapacoya	C
+21185	Tlapanalá	C
+21186	Tlatlauquitepec	C
+21187	Tlaxco	C
+21188	Tochimilco	C
+21189	Tochtepec	C
+21190	Totoltepec de Guerrero	C
+21191	Tulcingo	C
+21192	Tuzamapan de Galeana	C
+21193	Tzicatlacoyan	C
+21195	Vicente Guerrero	C
+21196	Xayacatlán de Bravo	C
+21214	Zinacatepec	C
+21215	Zongozotla	C
+21216	Zoquiapan	C
+21217	Zoquitlán	C
+22001	Amealco de Bonfil	C
+22002	Pinal de Amoles	C
+22004	Cadereyta de Montes	C
+22005	Colón	C
+22006	Corregidora	C
+22007	Ezequiel Montes	C
+22008	Huimilpan	C
+22009	Jalpan de Serra	C
+22010	Landa de Matamoros	C
+22011	El Marqués	C
+22012	Pedro Escobedo	C
+22013	Peñamiller	C
+22014	Querétaro	C
+22015	San Joaquín	C
+22016	San Juan del Río	C
+22017	Tequisquiapan	C
+22018	Tolimán	C
+29001	Amaxac de Guerrero	C
+29002	Apetatitlán de Antonio Carvajal	C
+29003	Atlangatepec	C
+29004	Atltzayanca	C
+29005	Apizaco	C
+29006	Calpulalpan	C
+29007	El Carmen Tequexquitla	C
+29008	Cuapiaxtla	C
+29009	Cuaxomulco	C
+29010	Chiautempan	C
+29011	Muñoz de Domingo Arenas	C
+29012	Españita	C
+29013	Huamantla	C
+29014	Hueyotlipan	C
+29015	Ixtacuixtla de Mariano Matamoros	C
+29016	Ixtenco	C
+29017	Mazatecochco de José María Morelos	C
+29018	Contla de Juan Cuamatzi	C
+29042	Xicohtzinco	C
+29043	Yauhquemehcan	C
+29044	Zacatelco	C
+29019	Tepetitla de Lardizábal	C
+29020	Sanctórum de Lázaro Cárdenas	C
+29021	Nanacamilpa de Mariano Arista	C
+29022	Acuamanala de Miguel Hidalgo	C
+29023	Natívitas	C
+29024	Panotla	C
+29025	San Pablo del Monte	C
+29026	Santa Cruz Tlaxcala	C
+29027	Tenancingo	C
+29028	Teolocholco	C
+29029	Tepeyanco	C
+29030	Terrenate	C
+29031	Tetla de la Solidaridad	C
+29032	Tetlatlahuca	C
+29033	Tlaxcala	C
+29034	Tlaxco	C
+29035	Tocatlán	C
+29036	Totolac	C
+29037	Ziltlaltépec de Trinidad Sánchez Santos	C
+29038	Tzompantepec	C
+29039	Xaloztoc	C
+29040	Xaltocan	C
+29041	Papalotla de Xicohténcatl	C
+29045	Benito Juárez	C
+29046	Emiliano Zapata	C
+29047	Lázaro Cárdenas	C
+29048	La Magdalena Tlaltelulco	C
+29054	San Lorenzo Axocomanitla	C
+29055	San Lucas Tecopilco	C
+29049	San Damián Texóloc	C
+29050	San Francisco Tetlanohcan	C
+29051	San Jerónimo Zacualpan	C
+29052	San José Teacalco	C
+29053	San Juan Huactzinco	C
+29056	Santa Ana Nopalucan	C
+29057	Santa Apolonia Teacalco	C
+29058	Santa Catarina Ayometla	C
+29059	Santa Cruz Quilehtla	C
+29060	Santa Isabel Xiloxoxtla	C
+30072	Huayacocotla	C
+30076	Ilamatlán	C
+30198	Zacualpan	C
+30202	Zontecomatlán de López y Fuentes	C

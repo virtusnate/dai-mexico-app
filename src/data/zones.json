@@ -1,0 +1,2757 @@
+[
+  {
+    "cve": "09002",
+    "mun": "Azcapotzalco",
+    "region": "C"
+  },
+  {
+    "cve": "09003",
+    "mun": "Coyoacán",
+    "region": "C"
+  },
+  {
+    "cve": "09004",
+    "mun": "Cuajimalpa de Morelos",
+    "region": "C"
+  },
+  {
+    "cve": "09005",
+    "mun": "Gustavo A. Madero",
+    "region": "C"
+  },
+  {
+    "cve": "09006",
+    "mun": "Iztacalco",
+    "region": "C"
+  },
+  {
+    "cve": "09007",
+    "mun": "Iztapalapa",
+    "region": "C"
+  },
+  {
+    "cve": "09008",
+    "mun": "La Magdalena Contreras",
+    "region": "C"
+  },
+  {
+    "cve": "09009",
+    "mun": "Milpa Alta",
+    "region": "C"
+  },
+  {
+    "cve": "09010",
+    "mun": "Álvaro Obregón",
+    "region": "C"
+  },
+  {
+    "cve": "09011",
+    "mun": "Tláhuac",
+    "region": "C"
+  },
+  {
+    "cve": "09012",
+    "mun": "Tlalpan",
+    "region": "C"
+  },
+  {
+    "cve": "09013",
+    "mun": "Xochimilco",
+    "region": "C"
+  },
+  {
+    "cve": "09014",
+    "mun": "Benito Juárez",
+    "region": "C"
+  },
+  {
+    "cve": "09015",
+    "mun": "Cuauhtémoc",
+    "region": "C"
+  },
+  {
+    "cve": "09016",
+    "mun": "Miguel Hidalgo",
+    "region": "C"
+  },
+  {
+    "cve": "09017",
+    "mun": "Venustiano Carranza",
+    "region": "C"
+  },
+  {
+    "cve": "12015",
+    "mun": "Buenavista de Cuéllar",
+    "region": "C"
+  },
+  {
+    "cve": "12055",
+    "mun": "Taxco de Alarcón",
+    "region": "C"
+  },
+  {
+    "cve": "12060",
+    "mun": "Tetipac",
+    "region": "C"
+  },
+  {
+    "cve": "12037",
+    "mun": "Ixcateopan de Cuauhtémoc",
+    "region": "C"
+  },
+  {
+    "cve": "12049",
+    "mun": "Pilcaya",
+    "region": "C"
+  },
+  {
+    "cve": "13001",
+    "mun": "Acatlán",
+    "region": "C"
+  },
+  {
+    "cve": "13002",
+    "mun": "Acaxochitlán",
+    "region": "C"
+  },
+  {
+    "cve": "13003",
+    "mun": "Actopan",
+    "region": "C"
+  },
+  {
+    "cve": "13004",
+    "mun": "Agua Blanca de Iturbide",
+    "region": "C"
+  },
+  {
+    "cve": "13005",
+    "mun": "Ajacuba",
+    "region": "C"
+  },
+  {
+    "cve": "13006",
+    "mun": "Alfajayucan",
+    "region": "C"
+  },
+  {
+    "cve": "13007",
+    "mun": "Almoloya",
+    "region": "C"
+  },
+  {
+    "cve": "13008",
+    "mun": "Apan",
+    "region": "C"
+  },
+  {
+    "cve": "13009",
+    "mun": "El Arenal",
+    "region": "C"
+  },
+  {
+    "cve": "13010",
+    "mun": "Atitalaquia",
+    "region": "C"
+  },
+  {
+    "cve": "13012",
+    "mun": "Atotonilco el Grande",
+    "region": "C"
+  },
+  {
+    "cve": "13013",
+    "mun": "Atotonilco de Tula",
+    "region": "C"
+  },
+  {
+    "cve": "13014",
+    "mun": "Calnali",
+    "region": "C"
+  },
+  {
+    "cve": "13015",
+    "mun": "Cardonal",
+    "region": "C"
+  },
+  {
+    "cve": "13016",
+    "mun": "Cuautepec de Hinojosa",
+    "region": "C"
+  },
+  {
+    "cve": "13017",
+    "mun": "Chapantongo",
+    "region": "C"
+  },
+  {
+    "cve": "13018",
+    "mun": "Chapulhuacán",
+    "region": "C"
+  },
+  {
+    "cve": "13019",
+    "mun": "Chilcuautla",
+    "region": "C"
+  },
+  {
+    "cve": "13020",
+    "mun": "Eloxochitlán",
+    "region": "C"
+  },
+  {
+    "cve": "13021",
+    "mun": "Emiliano Zapata",
+    "region": "C"
+  },
+  {
+    "cve": "13022",
+    "mun": "Epazoyucan",
+    "region": "C"
+  },
+  {
+    "cve": "13023",
+    "mun": "Francisco I. Madero",
+    "region": "C"
+  },
+  {
+    "cve": "13024",
+    "mun": "Huasca de Ocampo",
+    "region": "C"
+  },
+  {
+    "cve": "13026",
+    "mun": "Huazalingo",
+    "region": "C"
+  },
+  {
+    "cve": "13027",
+    "mun": "Huehuetla",
+    "region": "C"
+  },
+  {
+    "cve": "13029",
+    "mun": "Huichapan",
+    "region": "C"
+  },
+  {
+    "cve": "13030",
+    "mun": "Ixmiquilpan",
+    "region": "C"
+  },
+  {
+    "cve": "13031",
+    "mun": "Jacala de Ledezma",
+    "region": "C"
+  },
+  {
+    "cve": "13032",
+    "mun": "Jaltocán",
+    "region": "C"
+  },
+  {
+    "cve": "13033",
+    "mun": "Juárez Hidalgo",
+    "region": "C"
+  },
+  {
+    "cve": "13034",
+    "mun": "Lolotla",
+    "region": "C"
+  },
+  {
+    "cve": "13035",
+    "mun": "Metepec",
+    "region": "C"
+  },
+  {
+    "cve": "13036",
+    "mun": "San Agustín Metzquititlán",
+    "region": "C"
+  },
+  {
+    "cve": "13037",
+    "mun": "Metztitlán",
+    "region": "C"
+  },
+  {
+    "cve": "13038",
+    "mun": "Mineral del Chico",
+    "region": "C"
+  },
+  {
+    "cve": "13039",
+    "mun": "Mineral del Monte",
+    "region": "C"
+  },
+  {
+    "cve": "13040",
+    "mun": "La Misión",
+    "region": "C"
+  },
+  {
+    "cve": "13041",
+    "mun": "Mixquiahuala de Juárez",
+    "region": "C"
+  },
+  {
+    "cve": "13042",
+    "mun": "Molango de Escamilla",
+    "region": "C"
+  },
+  {
+    "cve": "13043",
+    "mun": "Nicolás Flores",
+    "region": "C"
+  },
+  {
+    "cve": "13044",
+    "mun": "Nopala de Villagrán",
+    "region": "C"
+  },
+  {
+    "cve": "13045",
+    "mun": "Omitlán de Juárez",
+    "region": "C"
+  },
+  {
+    "cve": "13046",
+    "mun": "San Felipe Orizatlán",
+    "region": "C"
+  },
+  {
+    "cve": "13047",
+    "mun": "Pacula",
+    "region": "C"
+  },
+  {
+    "cve": "13048",
+    "mun": "Pachuca de Soto",
+    "region": "C"
+  },
+  {
+    "cve": "13049",
+    "mun": "Pisaflores",
+    "region": "C"
+  },
+  {
+    "cve": "13050",
+    "mun": "Progreso de Obregón",
+    "region": "C"
+  },
+  {
+    "cve": "13051",
+    "mun": "Mineral de la Reforma",
+    "region": "C"
+  },
+  {
+    "cve": "13052",
+    "mun": "San Agustín Tlaxiaca",
+    "region": "C"
+  },
+  {
+    "cve": "13053",
+    "mun": "San Bartolo Tutotepec",
+    "region": "C"
+  },
+  {
+    "cve": "13054",
+    "mun": "San Salvador",
+    "region": "C"
+  },
+  {
+    "cve": "13055",
+    "mun": "Santiago de Anaya",
+    "region": "C"
+  },
+  {
+    "cve": "13056",
+    "mun": "Santiago Tulantepec de Lugo Guerrero",
+    "region": "C"
+  },
+  {
+    "cve": "13057",
+    "mun": "Singuilucan",
+    "region": "C"
+  },
+  {
+    "cve": "13058",
+    "mun": "Tasquillo",
+    "region": "C"
+  },
+  {
+    "cve": "13059",
+    "mun": "Tecozautla",
+    "region": "C"
+  },
+  {
+    "cve": "13060",
+    "mun": "Tenango de Doria",
+    "region": "C"
+  },
+  {
+    "cve": "13061",
+    "mun": "Tepeapulco",
+    "region": "C"
+  },
+  {
+    "cve": "13062",
+    "mun": "Tepehuacán de Guerrero",
+    "region": "C"
+  },
+  {
+    "cve": "13063",
+    "mun": "Tepeji del Río de Ocampo",
+    "region": "C"
+  },
+  {
+    "cve": "13064",
+    "mun": "Tepetitlán",
+    "region": "C"
+  },
+  {
+    "cve": "13083",
+    "mun": "Zempoala",
+    "region": "C"
+  },
+  {
+    "cve": "13084",
+    "mun": "Zimapán",
+    "region": "C"
+  },
+  {
+    "cve": "13065",
+    "mun": "Tetepango",
+    "region": "C"
+  },
+  {
+    "cve": "13066",
+    "mun": "Villa de Tezontepec",
+    "region": "C"
+  },
+  {
+    "cve": "13067",
+    "mun": "Tezontepec de Aldama",
+    "region": "C"
+  },
+  {
+    "cve": "13068",
+    "mun": "Tianguistengo",
+    "region": "C"
+  },
+  {
+    "cve": "13069",
+    "mun": "Tizayuca",
+    "region": "C"
+  },
+  {
+    "cve": "13070",
+    "mun": "Tlahuelilpan",
+    "region": "C"
+  },
+  {
+    "cve": "13071",
+    "mun": "Tlahuiltepa",
+    "region": "C"
+  },
+  {
+    "cve": "13072",
+    "mun": "Tlanalapa",
+    "region": "C"
+  },
+  {
+    "cve": "13073",
+    "mun": "Tlanchinol",
+    "region": "C"
+  },
+  {
+    "cve": "13074",
+    "mun": "Tlaxcoapan",
+    "region": "C"
+  },
+  {
+    "cve": "13075",
+    "mun": "Tolcayuca",
+    "region": "C"
+  },
+  {
+    "cve": "13076",
+    "mun": "Tula de Allende",
+    "region": "C"
+  },
+  {
+    "cve": "13077",
+    "mun": "Tulancingo de Bravo",
+    "region": "C"
+  },
+  {
+    "cve": "13079",
+    "mun": "Xochicoatlán",
+    "region": "C"
+  },
+  {
+    "cve": "13080",
+    "mun": "Yahualica",
+    "region": "C"
+  },
+  {
+    "cve": "13081",
+    "mun": "Zacualtipán de Ángeles",
+    "region": "C"
+  },
+  {
+    "cve": "13082",
+    "mun": "Zapotlán de Juárez",
+    "region": "C"
+  },
+  {
+    "cve": "15001",
+    "mun": "Acambay de Ruíz Castañeda",
+    "region": "C"
+  },
+  {
+    "cve": "15002",
+    "mun": "Acolman",
+    "region": "C"
+  },
+  {
+    "cve": "15003",
+    "mun": "Aculco",
+    "region": "C"
+  },
+  {
+    "cve": "15004",
+    "mun": "Almoloya de Alquisiras",
+    "region": "C"
+  },
+  {
+    "cve": "15005",
+    "mun": "Almoloya de Juárez",
+    "region": "C"
+  },
+  {
+    "cve": "15006",
+    "mun": "Almoloya del Río",
+    "region": "C"
+  },
+  {
+    "cve": "15007",
+    "mun": "Amanalco",
+    "region": "C"
+  },
+  {
+    "cve": "15008",
+    "mun": "Amatepec",
+    "region": "C"
+  },
+  {
+    "cve": "15009",
+    "mun": "Amecameca",
+    "region": "C"
+  },
+  {
+    "cve": "15010",
+    "mun": "Apaxco",
+    "region": "C"
+  },
+  {
+    "cve": "15011",
+    "mun": "Atenco",
+    "region": "C"
+  },
+  {
+    "cve": "15012",
+    "mun": "Atizapán",
+    "region": "C"
+  },
+  {
+    "cve": "15013",
+    "mun": "Atizapán de Zaragoza",
+    "region": "C"
+  },
+  {
+    "cve": "15014",
+    "mun": "Atlacomulco",
+    "region": "C"
+  },
+  {
+    "cve": "15015",
+    "mun": "Atlautla",
+    "region": "C"
+  },
+  {
+    "cve": "15016",
+    "mun": "Axapusco",
+    "region": "C"
+  },
+  {
+    "cve": "15017",
+    "mun": "Ayapango",
+    "region": "C"
+  },
+  {
+    "cve": "15018",
+    "mun": "Calimaya",
+    "region": "C"
+  },
+  {
+    "cve": "15019",
+    "mun": "Capulhuac",
+    "region": "C"
+  },
+  {
+    "cve": "15020",
+    "mun": "Coacalco de Berriozábal",
+    "region": "C"
+  },
+  {
+    "cve": "15021",
+    "mun": "Coatepec Harinas",
+    "region": "C"
+  },
+  {
+    "cve": "15022",
+    "mun": "Cocotitlán",
+    "region": "C"
+  },
+  {
+    "cve": "15023",
+    "mun": "Coyotepec",
+    "region": "C"
+  },
+  {
+    "cve": "15024",
+    "mun": "Cuautitlán",
+    "region": "C"
+  },
+  {
+    "cve": "15025",
+    "mun": "Chalco",
+    "region": "C"
+  },
+  {
+    "cve": "15026",
+    "mun": "Chapa de Mota",
+    "region": "C"
+  },
+  {
+    "cve": "15027",
+    "mun": "Chapultepec",
+    "region": "C"
+  },
+  {
+    "cve": "15028",
+    "mun": "Chiautla",
+    "region": "C"
+  },
+  {
+    "cve": "15029",
+    "mun": "Chicoloapan",
+    "region": "C"
+  },
+  {
+    "cve": "15030",
+    "mun": "Chiconcuac",
+    "region": "C"
+  },
+  {
+    "cve": "15031",
+    "mun": "Chimalhuacán",
+    "region": "C"
+  },
+  {
+    "cve": "15032",
+    "mun": "Donato Guerra",
+    "region": "C"
+  },
+  {
+    "cve": "15033",
+    "mun": "Ecatepec de Morelos",
+    "region": "C"
+  },
+  {
+    "cve": "15034",
+    "mun": "Ecatzingo",
+    "region": "C"
+  },
+  {
+    "cve": "15035",
+    "mun": "Huehuetoca",
+    "region": "C"
+  },
+  {
+    "cve": "15036",
+    "mun": "Hueypoxtla",
+    "region": "C"
+  },
+  {
+    "cve": "15037",
+    "mun": "Huixquilucan",
+    "region": "C"
+  },
+  {
+    "cve": "15038",
+    "mun": "Isidro Fabela",
+    "region": "C"
+  },
+  {
+    "cve": "15039",
+    "mun": "Ixtapaluca",
+    "region": "C"
+  },
+  {
+    "cve": "15040",
+    "mun": "Ixtapan de la Sal",
+    "region": "C"
+  },
+  {
+    "cve": "15041",
+    "mun": "Ixtapan del Oro",
+    "region": "C"
+  },
+  {
+    "cve": "15042",
+    "mun": "Ixtlahuaca",
+    "region": "C"
+  },
+  {
+    "cve": "15043",
+    "mun": "Xalatlaco",
+    "region": "C"
+  },
+  {
+    "cve": "15044",
+    "mun": "Jaltenco",
+    "region": "C"
+  },
+  {
+    "cve": "15045",
+    "mun": "Jilotepec",
+    "region": "C"
+  },
+  {
+    "cve": "15046",
+    "mun": "Jilotzingo",
+    "region": "C"
+  },
+  {
+    "cve": "15047",
+    "mun": "Jiquipilco",
+    "region": "C"
+  },
+  {
+    "cve": "15048",
+    "mun": "Jocotitlán",
+    "region": "C"
+  },
+  {
+    "cve": "15049",
+    "mun": "Joquicingo",
+    "region": "C"
+  },
+  {
+    "cve": "15050",
+    "mun": "Juchitepec",
+    "region": "C"
+  },
+  {
+    "cve": "15051",
+    "mun": "Lerma",
+    "region": "C"
+  },
+  {
+    "cve": "15052",
+    "mun": "Malinalco",
+    "region": "C"
+  },
+  {
+    "cve": "15069",
+    "mun": "Papalotla",
+    "region": "C"
+  },
+  {
+    "cve": "15070",
+    "mun": "La Paz",
+    "region": "C"
+  },
+  {
+    "cve": "15071",
+    "mun": "Polotitlán",
+    "region": "C"
+  },
+  {
+    "cve": "15072",
+    "mun": "Rayón",
+    "region": "C"
+  },
+  {
+    "cve": "15073",
+    "mun": "San Antonio la Isla",
+    "region": "C"
+  },
+  {
+    "cve": "15074",
+    "mun": "San Felipe del Progreso",
+    "region": "C"
+  },
+  {
+    "cve": "15075",
+    "mun": "San Martín de las Pirámides",
+    "region": "C"
+  },
+  {
+    "cve": "15053",
+    "mun": "Melchor Ocampo",
+    "region": "C"
+  },
+  {
+    "cve": "15054",
+    "mun": "Metepec",
+    "region": "C"
+  },
+  {
+    "cve": "15091",
+    "mun": "Teoloyucan",
+    "region": "C"
+  },
+  {
+    "cve": "15092",
+    "mun": "Teotihuacán",
+    "region": "C"
+  },
+  {
+    "cve": "15093",
+    "mun": "Tepetlaoxtoc",
+    "region": "C"
+  },
+  {
+    "cve": "15094",
+    "mun": "Tepetlixpa",
+    "region": "C"
+  },
+  {
+    "cve": "15095",
+    "mun": "Tepotzotlán",
+    "region": "C"
+  },
+  {
+    "cve": "15096",
+    "mun": "Tequixquiac",
+    "region": "C"
+  },
+  {
+    "cve": "15097",
+    "mun": "Texcaltitlán",
+    "region": "C"
+  },
+  {
+    "cve": "15055",
+    "mun": "Mexicaltzingo",
+    "region": "C"
+  },
+  {
+    "cve": "15056",
+    "mun": "Morelos",
+    "region": "C"
+  },
+  {
+    "cve": "15057",
+    "mun": "Naucalpan de Juárez",
+    "region": "C"
+  },
+  {
+    "cve": "15058",
+    "mun": "Nezahualcóyotl",
+    "region": "C"
+  },
+  {
+    "cve": "15059",
+    "mun": "Nextlalpan",
+    "region": "C"
+  },
+  {
+    "cve": "15060",
+    "mun": "Nicolás Romero",
+    "region": "C"
+  },
+  {
+    "cve": "15061",
+    "mun": "Nopaltepec",
+    "region": "C"
+  },
+  {
+    "cve": "15062",
+    "mun": "Ocoyoacac",
+    "region": "C"
+  },
+  {
+    "cve": "15063",
+    "mun": "Ocuilan",
+    "region": "C"
+  },
+  {
+    "cve": "15065",
+    "mun": "Otumba",
+    "region": "C"
+  },
+  {
+    "cve": "15066",
+    "mun": "Otzoloapan",
+    "region": "C"
+  },
+  {
+    "cve": "15067",
+    "mun": "Otzolotepec",
+    "region": "C"
+  },
+  {
+    "cve": "15068",
+    "mun": "Ozumba",
+    "region": "C"
+  },
+  {
+    "cve": "15102",
+    "mun": "Timilpan",
+    "region": "C"
+  },
+  {
+    "cve": "15103",
+    "mun": "Tlalmanalco",
+    "region": "C"
+  },
+  {
+    "cve": "15104",
+    "mun": "Tlalnepantla de Baz",
+    "region": "C"
+  },
+  {
+    "cve": "15105",
+    "mun": "Tlatlaya",
+    "region": "C"
+  },
+  {
+    "cve": "15106",
+    "mun": "Toluca",
+    "region": "C"
+  },
+  {
+    "cve": "15107",
+    "mun": "Tonatico",
+    "region": "C"
+  },
+  {
+    "cve": "15108",
+    "mun": "Tultepec",
+    "region": "C"
+  },
+  {
+    "cve": "15109",
+    "mun": "Tultitlán",
+    "region": "C"
+  },
+  {
+    "cve": "15110",
+    "mun": "Valle de Bravo",
+    "region": "C"
+  },
+  {
+    "cve": "15112",
+    "mun": "Villa del Carbón",
+    "region": "C"
+  },
+  {
+    "cve": "15113",
+    "mun": "Villa Guerrero",
+    "region": "C"
+  },
+  {
+    "cve": "15114",
+    "mun": "Villa Victoria",
+    "region": "C"
+  },
+  {
+    "cve": "15115",
+    "mun": "Xonacatlán",
+    "region": "C"
+  },
+  {
+    "cve": "15116",
+    "mun": "Zacazonapan",
+    "region": "C"
+  },
+  {
+    "cve": "15117",
+    "mun": "Zacualpan",
+    "region": "C"
+  },
+  {
+    "cve": "15118",
+    "mun": "Zinacantepec",
+    "region": "C"
+  },
+  {
+    "cve": "15119",
+    "mun": "Zumpahuacán",
+    "region": "C"
+  },
+  {
+    "cve": "15120",
+    "mun": "Zumpango",
+    "region": "C"
+  },
+  {
+    "cve": "15121",
+    "mun": "Cuautitlán Izcalli",
+    "region": "C"
+  },
+  {
+    "cve": "15076",
+    "mun": "San Mateo Atenco",
+    "region": "C"
+  },
+  {
+    "cve": "15077",
+    "mun": "San Simón de Guerrero",
+    "region": "C"
+  },
+  {
+    "cve": "15078",
+    "mun": "Santo Tomás",
+    "region": "C"
+  },
+  {
+    "cve": "15079",
+    "mun": "Soyaniquilpan de Juárez",
+    "region": "C"
+  },
+  {
+    "cve": "15080",
+    "mun": "Sultepec",
+    "region": "C"
+  },
+  {
+    "cve": "15081",
+    "mun": "Tecámac",
+    "region": "C"
+  },
+  {
+    "cve": "15082",
+    "mun": "Tejupilco",
+    "region": "C"
+  },
+  {
+    "cve": "15122",
+    "mun": "Valle de Chalco Solidaridad",
+    "region": "C"
+  },
+  {
+    "cve": "15123",
+    "mun": "Luvianos",
+    "region": "C"
+  },
+  {
+    "cve": "15083",
+    "mun": "Temamatla",
+    "region": "C"
+  },
+  {
+    "cve": "15084",
+    "mun": "Temascalapa",
+    "region": "C"
+  },
+  {
+    "cve": "15085",
+    "mun": "Temascalcingo",
+    "region": "C"
+  },
+  {
+    "cve": "15086",
+    "mun": "Temascaltepec",
+    "region": "C"
+  },
+  {
+    "cve": "15087",
+    "mun": "Temoaya",
+    "region": "C"
+  },
+  {
+    "cve": "15088",
+    "mun": "Tenancingo",
+    "region": "C"
+  },
+  {
+    "cve": "15089",
+    "mun": "Tenango del Aire",
+    "region": "C"
+  },
+  {
+    "cve": "15090",
+    "mun": "Tenango del Valle",
+    "region": "C"
+  },
+  {
+    "cve": "15098",
+    "mun": "Texcalyacac",
+    "region": "C"
+  },
+  {
+    "cve": "15099",
+    "mun": "Texcoco",
+    "region": "C"
+  },
+  {
+    "cve": "15100",
+    "mun": "Tezoyuca",
+    "region": "C"
+  },
+  {
+    "cve": "15101",
+    "mun": "Tianguistenco",
+    "region": "C"
+  },
+  {
+    "cve": "15125",
+    "mun": "Tonanitla",
+    "region": "C"
+  },
+  {
+    "cve": "17001",
+    "mun": "Amacuzac",
+    "region": "C"
+  },
+  {
+    "cve": "17002",
+    "mun": "Atlatlahucan",
+    "region": "C"
+  },
+  {
+    "cve": "17003",
+    "mun": "Axochiapan",
+    "region": "C"
+  },
+  {
+    "cve": "17004",
+    "mun": "Ayala",
+    "region": "C"
+  },
+  {
+    "cve": "17005",
+    "mun": "Coatlán del Río",
+    "region": "C"
+  },
+  {
+    "cve": "17006",
+    "mun": "Cuautla",
+    "region": "C"
+  },
+  {
+    "cve": "17007",
+    "mun": "Cuernavaca",
+    "region": "C"
+  },
+  {
+    "cve": "17008",
+    "mun": "Emiliano Zapata",
+    "region": "C"
+  },
+  {
+    "cve": "17009",
+    "mun": "Huitzilac",
+    "region": "C"
+  },
+  {
+    "cve": "17010",
+    "mun": "Jantetelco",
+    "region": "C"
+  },
+  {
+    "cve": "17011",
+    "mun": "Jiutepec",
+    "region": "C"
+  },
+  {
+    "cve": "17012",
+    "mun": "Jojutla",
+    "region": "C"
+  },
+  {
+    "cve": "17013",
+    "mun": "Jonacatepec de Leandro Valle",
+    "region": "C"
+  },
+  {
+    "cve": "17014",
+    "mun": "Mazatepec",
+    "region": "C"
+  },
+  {
+    "cve": "17015",
+    "mun": "Miacatlán",
+    "region": "C"
+  },
+  {
+    "cve": "17016",
+    "mun": "Ocuituco",
+    "region": "C"
+  },
+  {
+    "cve": "17017",
+    "mun": "Puente de Ixtla",
+    "region": "C"
+  },
+  {
+    "cve": "17018",
+    "mun": "Temixco",
+    "region": "C"
+  },
+  {
+    "cve": "17019",
+    "mun": "Tepalcingo",
+    "region": "C"
+  },
+  {
+    "cve": "17020",
+    "mun": "Tepoztlán",
+    "region": "C"
+  },
+  {
+    "cve": "17021",
+    "mun": "Tetecala",
+    "region": "C"
+  },
+  {
+    "cve": "17022",
+    "mun": "Tetela del Volcán",
+    "region": "C"
+  },
+  {
+    "cve": "17023",
+    "mun": "Tlalnepantla",
+    "region": "C"
+  },
+  {
+    "cve": "17024",
+    "mun": "Tlaltizapán de Zapata",
+    "region": "C"
+  },
+  {
+    "cve": "17025",
+    "mun": "Tlaquiltenango",
+    "region": "C"
+  },
+  {
+    "cve": "17026",
+    "mun": "Tlayacapan",
+    "region": "C"
+  },
+  {
+    "cve": "17027",
+    "mun": "Totolapan",
+    "region": "C"
+  },
+  {
+    "cve": "17028",
+    "mun": "Xochitepec",
+    "region": "C"
+  },
+  {
+    "cve": "17029",
+    "mun": "Yautepec",
+    "region": "C"
+  },
+  {
+    "cve": "17030",
+    "mun": "Yecapixtla",
+    "region": "C"
+  },
+  {
+    "cve": "17031",
+    "mun": "Zacatepec",
+    "region": "C"
+  },
+  {
+    "cve": "17032",
+    "mun": "Zacualpan de Amilpas",
+    "region": "C"
+  },
+  {
+    "cve": "17033",
+    "mun": "Temoac",
+    "region": "C"
+  },
+  {
+    "cve": "17034",
+    "mun": "Coatetelco",
+    "region": "C"
+  },
+  {
+    "cve": "17035",
+    "mun": "Xoxocotla",
+    "region": "C"
+  },
+  {
+    "cve": "17036",
+    "mun": "Hueyapan",
+    "region": "C"
+  },
+  {
+    "cve": "20022",
+    "mun": "Cosoltepec",
+    "region": "C"
+  },
+  {
+    "cve": "21001",
+    "mun": "Acajete",
+    "region": "C"
+  },
+  {
+    "cve": "21002",
+    "mun": "Acateno",
+    "region": "C"
+  },
+  {
+    "cve": "21003",
+    "mun": "Acatlán",
+    "region": "C"
+  },
+  {
+    "cve": "21004",
+    "mun": "Acatzingo",
+    "region": "C"
+  },
+  {
+    "cve": "21005",
+    "mun": "Acteopan",
+    "region": "C"
+  },
+  {
+    "cve": "21006",
+    "mun": "Ahuacatlán",
+    "region": "C"
+  },
+  {
+    "cve": "21007",
+    "mun": "Ahuatlán",
+    "region": "C"
+  },
+  {
+    "cve": "21008",
+    "mun": "Ahuazotepec",
+    "region": "C"
+  },
+  {
+    "cve": "21009",
+    "mun": "Ahuehuetitla",
+    "region": "C"
+  },
+  {
+    "cve": "21010",
+    "mun": "Ajalpan",
+    "region": "C"
+  },
+  {
+    "cve": "21011",
+    "mun": "Albino Zertuche",
+    "region": "C"
+  },
+  {
+    "cve": "21012",
+    "mun": "Aljojuca",
+    "region": "C"
+  },
+  {
+    "cve": "21013",
+    "mun": "Altepexi",
+    "region": "C"
+  },
+  {
+    "cve": "21014",
+    "mun": "Amixtlán",
+    "region": "C"
+  },
+  {
+    "cve": "21015",
+    "mun": "Amozoc",
+    "region": "C"
+  },
+  {
+    "cve": "21016",
+    "mun": "Aquixtla",
+    "region": "C"
+  },
+  {
+    "cve": "21017",
+    "mun": "Atempan",
+    "region": "C"
+  },
+  {
+    "cve": "21018",
+    "mun": "Atexcal",
+    "region": "C"
+  },
+  {
+    "cve": "21019",
+    "mun": "Atlixco",
+    "region": "C"
+  },
+  {
+    "cve": "21020",
+    "mun": "Atoyatempan",
+    "region": "C"
+  },
+  {
+    "cve": "21021",
+    "mun": "Atzala",
+    "region": "C"
+  },
+  {
+    "cve": "21022",
+    "mun": "Atzitzihuacán",
+    "region": "C"
+  },
+  {
+    "cve": "21023",
+    "mun": "Atzitzintla",
+    "region": "C"
+  },
+  {
+    "cve": "21024",
+    "mun": "Axutla",
+    "region": "C"
+  },
+  {
+    "cve": "21025",
+    "mun": "Ayotoxco de Guerrero",
+    "region": "C"
+  },
+  {
+    "cve": "21026",
+    "mun": "Calpan",
+    "region": "C"
+  },
+  {
+    "cve": "21027",
+    "mun": "Caltepec",
+    "region": "C"
+  },
+  {
+    "cve": "21053",
+    "mun": "Chignahuapan",
+    "region": "C"
+  },
+  {
+    "cve": "21028",
+    "mun": "Camocuautla",
+    "region": "C"
+  },
+  {
+    "cve": "21029",
+    "mun": "Caxhuacan",
+    "region": "C"
+  },
+  {
+    "cve": "21054",
+    "mun": "Chignautla",
+    "region": "C"
+  },
+  {
+    "cve": "21055",
+    "mun": "Chila",
+    "region": "C"
+  },
+  {
+    "cve": "21056",
+    "mun": "Chila de la Sal",
+    "region": "C"
+  },
+  {
+    "cve": "21057",
+    "mun": "Honey",
+    "region": "C"
+  },
+  {
+    "cve": "21058",
+    "mun": "Chilchotla",
+    "region": "C"
+  },
+  {
+    "cve": "21059",
+    "mun": "Chinantla",
+    "region": "C"
+  },
+  {
+    "cve": "21030",
+    "mun": "Coatepec",
+    "region": "C"
+  },
+  {
+    "cve": "21031",
+    "mun": "Coatzingo",
+    "region": "C"
+  },
+  {
+    "cve": "21032",
+    "mun": "Cohetzala",
+    "region": "C"
+  },
+  {
+    "cve": "21033",
+    "mun": "Cohuecan",
+    "region": "C"
+  },
+  {
+    "cve": "21060",
+    "mun": "Domingo Arenas",
+    "region": "C"
+  },
+  {
+    "cve": "21061",
+    "mun": "Eloxochitlán",
+    "region": "C"
+  },
+  {
+    "cve": "21034",
+    "mun": "Coronango",
+    "region": "C"
+  },
+  {
+    "cve": "21035",
+    "mun": "Coxcatlán",
+    "region": "C"
+  },
+  {
+    "cve": "21036",
+    "mun": "Coyomeapan",
+    "region": "C"
+  },
+  {
+    "cve": "21037",
+    "mun": "Coyotepec",
+    "region": "C"
+  },
+  {
+    "cve": "21062",
+    "mun": "Epatlán",
+    "region": "C"
+  },
+  {
+    "cve": "21063",
+    "mun": "Esperanza",
+    "region": "C"
+  },
+  {
+    "cve": "21038",
+    "mun": "Cuapiaxtla de Madero",
+    "region": "C"
+  },
+  {
+    "cve": "21039",
+    "mun": "Cuautempan",
+    "region": "C"
+  },
+  {
+    "cve": "21040",
+    "mun": "Cuautinchán",
+    "region": "C"
+  },
+  {
+    "cve": "21041",
+    "mun": "Cuautlancingo",
+    "region": "C"
+  },
+  {
+    "cve": "21042",
+    "mun": "Cuayuca de Andrade",
+    "region": "C"
+  },
+  {
+    "cve": "21043",
+    "mun": "Cuetzalan del Progreso",
+    "region": "C"
+  },
+  {
+    "cve": "21044",
+    "mun": "Cuyoaco",
+    "region": "C"
+  },
+  {
+    "cve": "21045",
+    "mun": "Chalchicomula de Sesma",
+    "region": "C"
+  },
+  {
+    "cve": "21046",
+    "mun": "Chapulco",
+    "region": "C"
+  },
+  {
+    "cve": "21047",
+    "mun": "Chiautla",
+    "region": "C"
+  },
+  {
+    "cve": "21048",
+    "mun": "Chiautzingo",
+    "region": "C"
+  },
+  {
+    "cve": "21049",
+    "mun": "Chiconcuautla",
+    "region": "C"
+  },
+  {
+    "cve": "21050",
+    "mun": "Chichiquila",
+    "region": "C"
+  },
+  {
+    "cve": "21051",
+    "mun": "Chietla",
+    "region": "C"
+  },
+  {
+    "cve": "21052",
+    "mun": "Chigmecatitlán",
+    "region": "C"
+  },
+  {
+    "cve": "21065",
+    "mun": "General Felipe Ángeles",
+    "region": "C"
+  },
+  {
+    "cve": "21066",
+    "mun": "Guadalupe",
+    "region": "C"
+  },
+  {
+    "cve": "21067",
+    "mun": "Guadalupe Victoria",
+    "region": "C"
+  },
+  {
+    "cve": "21068",
+    "mun": "Hermenegildo Galeana",
+    "region": "C"
+  },
+  {
+    "cve": "21069",
+    "mun": "Huaquechula",
+    "region": "C"
+  },
+  {
+    "cve": "21070",
+    "mun": "Huatlatlauca",
+    "region": "C"
+  },
+  {
+    "cve": "21071",
+    "mun": "Huauchinango",
+    "region": "C"
+  },
+  {
+    "cve": "21072",
+    "mun": "Huehuetla",
+    "region": "C"
+  },
+  {
+    "cve": "21073",
+    "mun": "Huehuetlán el Chico",
+    "region": "C"
+  },
+  {
+    "cve": "21074",
+    "mun": "Huejotzingo",
+    "region": "C"
+  },
+  {
+    "cve": "21075",
+    "mun": "Hueyapan",
+    "region": "C"
+  },
+  {
+    "cve": "21076",
+    "mun": "Hueytamalco",
+    "region": "C"
+  },
+  {
+    "cve": "21077",
+    "mun": "Hueytlalpan",
+    "region": "C"
+  },
+  {
+    "cve": "21078",
+    "mun": "Huitzilan de Serdán",
+    "region": "C"
+  },
+  {
+    "cve": "21079",
+    "mun": "Huitziltepec",
+    "region": "C"
+  },
+  {
+    "cve": "21097",
+    "mun": "Mixtla",
+    "region": "C"
+  },
+  {
+    "cve": "21098",
+    "mun": "Molcaxac",
+    "region": "C"
+  },
+  {
+    "cve": "21099",
+    "mun": "Cañada Morelos",
+    "region": "C"
+  },
+  {
+    "cve": "21100",
+    "mun": "Naupan",
+    "region": "C"
+  },
+  {
+    "cve": "21101",
+    "mun": "Nauzontla",
+    "region": "C"
+  },
+  {
+    "cve": "21102",
+    "mun": "Nealtican",
+    "region": "C"
+  },
+  {
+    "cve": "21103",
+    "mun": "Nicolás Bravo",
+    "region": "C"
+  },
+  {
+    "cve": "21104",
+    "mun": "Nopalucan",
+    "region": "C"
+  },
+  {
+    "cve": "21105",
+    "mun": "Ocotepec",
+    "region": "C"
+  },
+  {
+    "cve": "21106",
+    "mun": "Ocoyucan",
+    "region": "C"
+  },
+  {
+    "cve": "21107",
+    "mun": "Olintla",
+    "region": "C"
+  },
+  {
+    "cve": "21108",
+    "mun": "Oriental",
+    "region": "C"
+  },
+  {
+    "cve": "21109",
+    "mun": "Pahuatlán",
+    "region": "C"
+  },
+  {
+    "cve": "21110",
+    "mun": "Palmar de Bravo",
+    "region": "C"
+  },
+  {
+    "cve": "21112",
+    "mun": "Petlalcingo",
+    "region": "C"
+  },
+  {
+    "cve": "21113",
+    "mun": "Piaxtla",
+    "region": "C"
+  },
+  {
+    "cve": "21114",
+    "mun": "Puebla",
+    "region": "C"
+  },
+  {
+    "cve": "21115",
+    "mun": "Quecholac",
+    "region": "C"
+  },
+  {
+    "cve": "21116",
+    "mun": "Quimixtlán",
+    "region": "C"
+  },
+  {
+    "cve": "21080",
+    "mun": "Atlequizayan",
+    "region": "C"
+  },
+  {
+    "cve": "21081",
+    "mun": "Ixcamilpa de Guerrero",
+    "region": "C"
+  },
+  {
+    "cve": "21082",
+    "mun": "Ixcaquixtla",
+    "region": "C"
+  },
+  {
+    "cve": "21083",
+    "mun": "Ixtacamaxtitlán",
+    "region": "C"
+  },
+  {
+    "cve": "21084",
+    "mun": "Ixtepec",
+    "region": "C"
+  },
+  {
+    "cve": "21085",
+    "mun": "Izúcar de Matamoros",
+    "region": "C"
+  },
+  {
+    "cve": "21087",
+    "mun": "Jolalpan",
+    "region": "C"
+  },
+  {
+    "cve": "21088",
+    "mun": "Jonotla",
+    "region": "C"
+  },
+  {
+    "cve": "21140",
+    "mun": "San Pedro Cholula",
+    "region": "C"
+  },
+  {
+    "cve": "21141",
+    "mun": "San Pedro Yeloixtlahuaca",
+    "region": "C"
+  },
+  {
+    "cve": "21090",
+    "mun": "Juan C. Bonilla",
+    "region": "C"
+  },
+  {
+    "cve": "21142",
+    "mun": "San Salvador el Seco",
+    "region": "C"
+  },
+  {
+    "cve": "21143",
+    "mun": "San Salvador el Verde",
+    "region": "C"
+  },
+  {
+    "cve": "21091",
+    "mun": "Juan Galindo",
+    "region": "C"
+  },
+  {
+    "cve": "21092",
+    "mun": "Juan N. Méndez",
+    "region": "C"
+  },
+  {
+    "cve": "21093",
+    "mun": "Lafragua",
+    "region": "C"
+  },
+  {
+    "cve": "21094",
+    "mun": "Libres",
+    "region": "C"
+  },
+  {
+    "cve": "21198",
+    "mun": "Xicotlán",
+    "region": "C"
+  },
+  {
+    "cve": "21199",
+    "mun": "Xiutetelco",
+    "region": "C"
+  },
+  {
+    "cve": "21095",
+    "mun": "La Magdalena Tlatlauquitepec",
+    "region": "C"
+  },
+  {
+    "cve": "21096",
+    "mun": "Mazapiltepec de Juárez",
+    "region": "C"
+  },
+  {
+    "cve": "21200",
+    "mun": "Xochiapulco",
+    "region": "C"
+  },
+  {
+    "cve": "21201",
+    "mun": "Xochiltepec",
+    "region": "C"
+  },
+  {
+    "cve": "21202",
+    "mun": "Xochitlán de Vicente Suárez",
+    "region": "C"
+  },
+  {
+    "cve": "21203",
+    "mun": "Xochitlán Todos Santos",
+    "region": "C"
+  },
+  {
+    "cve": "21204",
+    "mun": "Yaonáhuac",
+    "region": "C"
+  },
+  {
+    "cve": "21205",
+    "mun": "Yehualtepec",
+    "region": "C"
+  },
+  {
+    "cve": "21206",
+    "mun": "Zacapala",
+    "region": "C"
+  },
+  {
+    "cve": "21207",
+    "mun": "Zacapoaxtla",
+    "region": "C"
+  },
+  {
+    "cve": "21208",
+    "mun": "Zacatlán",
+    "region": "C"
+  },
+  {
+    "cve": "21209",
+    "mun": "Zapotitlán",
+    "region": "C"
+  },
+  {
+    "cve": "21117",
+    "mun": "Rafael Lara Grajales",
+    "region": "C"
+  },
+  {
+    "cve": "21210",
+    "mun": "Zapotitlán de Méndez",
+    "region": "C"
+  },
+  {
+    "cve": "21211",
+    "mun": "Zaragoza",
+    "region": "C"
+  },
+  {
+    "cve": "21212",
+    "mun": "Zautla",
+    "region": "C"
+  },
+  {
+    "cve": "21118",
+    "mun": "Los Reyes de Juárez",
+    "region": "C"
+  },
+  {
+    "cve": "21119",
+    "mun": "San Andrés Cholula",
+    "region": "C"
+  },
+  {
+    "cve": "21120",
+    "mun": "San Antonio Cañada",
+    "region": "C"
+  },
+  {
+    "cve": "21121",
+    "mun": "San Diego la Mesa Tochimiltzingo",
+    "region": "C"
+  },
+  {
+    "cve": "21122",
+    "mun": "San Felipe Teotlalcingo",
+    "region": "C"
+  },
+  {
+    "cve": "21123",
+    "mun": "San Felipe Tepatlán",
+    "region": "C"
+  },
+  {
+    "cve": "21124",
+    "mun": "San Gabriel Chilac",
+    "region": "C"
+  },
+  {
+    "cve": "21125",
+    "mun": "San Gregorio Atzompa",
+    "region": "C"
+  },
+  {
+    "cve": "21126",
+    "mun": "San Jerónimo Tecuanipan",
+    "region": "C"
+  },
+  {
+    "cve": "21127",
+    "mun": "San Jerónimo Xayacatlán",
+    "region": "C"
+  },
+  {
+    "cve": "21128",
+    "mun": "San José Chiapa",
+    "region": "C"
+  },
+  {
+    "cve": "21129",
+    "mun": "San José Miahuatlán",
+    "region": "C"
+  },
+  {
+    "cve": "21130",
+    "mun": "San Juan Atenco",
+    "region": "C"
+  },
+  {
+    "cve": "21131",
+    "mun": "San Juan Atzompa",
+    "region": "C"
+  },
+  {
+    "cve": "21132",
+    "mun": "San Martín Texmelucan",
+    "region": "C"
+  },
+  {
+    "cve": "21133",
+    "mun": "San Martín Totoltepec",
+    "region": "C"
+  },
+  {
+    "cve": "21134",
+    "mun": "San Matías Tlalancaleca",
+    "region": "C"
+  },
+  {
+    "cve": "21135",
+    "mun": "San Miguel Ixitlán",
+    "region": "C"
+  },
+  {
+    "cve": "21136",
+    "mun": "San Miguel Xoxtla",
+    "region": "C"
+  },
+  {
+    "cve": "21137",
+    "mun": "San Nicolás Buenos Aires",
+    "region": "C"
+  },
+  {
+    "cve": "21138",
+    "mun": "San Nicolás de los Ranchos",
+    "region": "C"
+  },
+  {
+    "cve": "21139",
+    "mun": "San Pablo Anicano",
+    "region": "C"
+  },
+  {
+    "cve": "21144",
+    "mun": "San Salvador Huixcolotla",
+    "region": "C"
+  },
+  {
+    "cve": "21145",
+    "mun": "San Sebastián Tlacotepec",
+    "region": "C"
+  },
+  {
+    "cve": "21146",
+    "mun": "Santa Catarina Tlaltempan",
+    "region": "C"
+  },
+  {
+    "cve": "21147",
+    "mun": "Santa Inés Ahuatempan",
+    "region": "C"
+  },
+  {
+    "cve": "21148",
+    "mun": "Santa Isabel Cholula",
+    "region": "C"
+  },
+  {
+    "cve": "21149",
+    "mun": "Santiago Miahuatlán",
+    "region": "C"
+  },
+  {
+    "cve": "21150",
+    "mun": "Huehuetlán el Grande",
+    "region": "C"
+  },
+  {
+    "cve": "21151",
+    "mun": "Santo Tomás Hueyotlipan",
+    "region": "C"
+  },
+  {
+    "cve": "21152",
+    "mun": "Soltepec",
+    "region": "C"
+  },
+  {
+    "cve": "21153",
+    "mun": "Tecali de Herrera",
+    "region": "C"
+  },
+  {
+    "cve": "21154",
+    "mun": "Tecamachalco",
+    "region": "C"
+  },
+  {
+    "cve": "21155",
+    "mun": "Tecomatlán",
+    "region": "C"
+  },
+  {
+    "cve": "21156",
+    "mun": "Tehuacán",
+    "region": "C"
+  },
+  {
+    "cve": "21157",
+    "mun": "Tehuitzingo",
+    "region": "C"
+  },
+  {
+    "cve": "21158",
+    "mun": "Tenampulco",
+    "region": "C"
+  },
+  {
+    "cve": "21159",
+    "mun": "Teopantlán",
+    "region": "C"
+  },
+  {
+    "cve": "21160",
+    "mun": "Teotlalco",
+    "region": "C"
+  },
+  {
+    "cve": "21161",
+    "mun": "Tepanco de López",
+    "region": "C"
+  },
+  {
+    "cve": "21162",
+    "mun": "Tepango de Rodríguez",
+    "region": "C"
+  },
+  {
+    "cve": "21163",
+    "mun": "Tepatlaxco de Hidalgo",
+    "region": "C"
+  },
+  {
+    "cve": "21164",
+    "mun": "Tepeaca",
+    "region": "C"
+  },
+  {
+    "cve": "21165",
+    "mun": "Tepemaxalco",
+    "region": "C"
+  },
+  {
+    "cve": "21166",
+    "mun": "Tepeojuma",
+    "region": "C"
+  },
+  {
+    "cve": "21167",
+    "mun": "Tepetzintla",
+    "region": "C"
+  },
+  {
+    "cve": "21168",
+    "mun": "Tepexco",
+    "region": "C"
+  },
+  {
+    "cve": "21169",
+    "mun": "Tepexi de Rodríguez",
+    "region": "C"
+  },
+  {
+    "cve": "21170",
+    "mun": "Tepeyahualco",
+    "region": "C"
+  },
+  {
+    "cve": "21171",
+    "mun": "Tepeyahualco de Cuauhtémoc",
+    "region": "C"
+  },
+  {
+    "cve": "21172",
+    "mun": "Tetela de Ocampo",
+    "region": "C"
+  },
+  {
+    "cve": "21173",
+    "mun": "Teteles de Ávila Castillo",
+    "region": "C"
+  },
+  {
+    "cve": "21174",
+    "mun": "Teziutlán",
+    "region": "C"
+  },
+  {
+    "cve": "21175",
+    "mun": "Tianguismanalco",
+    "region": "C"
+  },
+  {
+    "cve": "21176",
+    "mun": "Tilapa",
+    "region": "C"
+  },
+  {
+    "cve": "21177",
+    "mun": "Tlacotepec de Benito Juárez",
+    "region": "C"
+  },
+  {
+    "cve": "21178",
+    "mun": "Tlacuilotepec",
+    "region": "C"
+  },
+  {
+    "cve": "21179",
+    "mun": "Tlachichuca",
+    "region": "C"
+  },
+  {
+    "cve": "21180",
+    "mun": "Tlahuapan",
+    "region": "C"
+  },
+  {
+    "cve": "21181",
+    "mun": "Tlaltenango",
+    "region": "C"
+  },
+  {
+    "cve": "21182",
+    "mun": "Tlanepantla",
+    "region": "C"
+  },
+  {
+    "cve": "21183",
+    "mun": "Tlaola",
+    "region": "C"
+  },
+  {
+    "cve": "21184",
+    "mun": "Tlapacoya",
+    "region": "C"
+  },
+  {
+    "cve": "21185",
+    "mun": "Tlapanalá",
+    "region": "C"
+  },
+  {
+    "cve": "21186",
+    "mun": "Tlatlauquitepec",
+    "region": "C"
+  },
+  {
+    "cve": "21187",
+    "mun": "Tlaxco",
+    "region": "C"
+  },
+  {
+    "cve": "21188",
+    "mun": "Tochimilco",
+    "region": "C"
+  },
+  {
+    "cve": "21189",
+    "mun": "Tochtepec",
+    "region": "C"
+  },
+  {
+    "cve": "21190",
+    "mun": "Totoltepec de Guerrero",
+    "region": "C"
+  },
+  {
+    "cve": "21191",
+    "mun": "Tulcingo",
+    "region": "C"
+  },
+  {
+    "cve": "21192",
+    "mun": "Tuzamapan de Galeana",
+    "region": "C"
+  },
+  {
+    "cve": "21193",
+    "mun": "Tzicatlacoyan",
+    "region": "C"
+  },
+  {
+    "cve": "21195",
+    "mun": "Vicente Guerrero",
+    "region": "C"
+  },
+  {
+    "cve": "21196",
+    "mun": "Xayacatlán de Bravo",
+    "region": "C"
+  },
+  {
+    "cve": "21214",
+    "mun": "Zinacatepec",
+    "region": "C"
+  },
+  {
+    "cve": "21215",
+    "mun": "Zongozotla",
+    "region": "C"
+  },
+  {
+    "cve": "21216",
+    "mun": "Zoquiapan",
+    "region": "C"
+  },
+  {
+    "cve": "21217",
+    "mun": "Zoquitlán",
+    "region": "C"
+  },
+  {
+    "cve": "22001",
+    "mun": "Amealco de Bonfil",
+    "region": "C"
+  },
+  {
+    "cve": "22002",
+    "mun": "Pinal de Amoles",
+    "region": "C"
+  },
+  {
+    "cve": "22004",
+    "mun": "Cadereyta de Montes",
+    "region": "C"
+  },
+  {
+    "cve": "22005",
+    "mun": "Colón",
+    "region": "C"
+  },
+  {
+    "cve": "22006",
+    "mun": "Corregidora",
+    "region": "C"
+  },
+  {
+    "cve": "22007",
+    "mun": "Ezequiel Montes",
+    "region": "C"
+  },
+  {
+    "cve": "22008",
+    "mun": "Huimilpan",
+    "region": "C"
+  },
+  {
+    "cve": "22009",
+    "mun": "Jalpan de Serra",
+    "region": "C"
+  },
+  {
+    "cve": "22010",
+    "mun": "Landa de Matamoros",
+    "region": "C"
+  },
+  {
+    "cve": "22011",
+    "mun": "El Marqués",
+    "region": "C"
+  },
+  {
+    "cve": "22012",
+    "mun": "Pedro Escobedo",
+    "region": "C"
+  },
+  {
+    "cve": "22013",
+    "mun": "Peñamiller",
+    "region": "C"
+  },
+  {
+    "cve": "22014",
+    "mun": "Querétaro",
+    "region": "C"
+  },
+  {
+    "cve": "22015",
+    "mun": "San Joaquín",
+    "region": "C"
+  },
+  {
+    "cve": "22016",
+    "mun": "San Juan del Río",
+    "region": "C"
+  },
+  {
+    "cve": "22017",
+    "mun": "Tequisquiapan",
+    "region": "C"
+  },
+  {
+    "cve": "22018",
+    "mun": "Tolimán",
+    "region": "C"
+  },
+  {
+    "cve": "29001",
+    "mun": "Amaxac de Guerrero",
+    "region": "C"
+  },
+  {
+    "cve": "29002",
+    "mun": "Apetatitlán de Antonio Carvajal",
+    "region": "C"
+  },
+  {
+    "cve": "29003",
+    "mun": "Atlangatepec",
+    "region": "C"
+  },
+  {
+    "cve": "29004",
+    "mun": "Atltzayanca",
+    "region": "C"
+  },
+  {
+    "cve": "29005",
+    "mun": "Apizaco",
+    "region": "C"
+  },
+  {
+    "cve": "29006",
+    "mun": "Calpulalpan",
+    "region": "C"
+  },
+  {
+    "cve": "29007",
+    "mun": "El Carmen Tequexquitla",
+    "region": "C"
+  },
+  {
+    "cve": "29008",
+    "mun": "Cuapiaxtla",
+    "region": "C"
+  },
+  {
+    "cve": "29009",
+    "mun": "Cuaxomulco",
+    "region": "C"
+  },
+  {
+    "cve": "29010",
+    "mun": "Chiautempan",
+    "region": "C"
+  },
+  {
+    "cve": "29011",
+    "mun": "Muñoz de Domingo Arenas",
+    "region": "C"
+  },
+  {
+    "cve": "29012",
+    "mun": "Españita",
+    "region": "C"
+  },
+  {
+    "cve": "29013",
+    "mun": "Huamantla",
+    "region": "C"
+  },
+  {
+    "cve": "29014",
+    "mun": "Hueyotlipan",
+    "region": "C"
+  },
+  {
+    "cve": "29015",
+    "mun": "Ixtacuixtla de Mariano Matamoros",
+    "region": "C"
+  },
+  {
+    "cve": "29016",
+    "mun": "Ixtenco",
+    "region": "C"
+  },
+  {
+    "cve": "29017",
+    "mun": "Mazatecochco de José María Morelos",
+    "region": "C"
+  },
+  {
+    "cve": "29018",
+    "mun": "Contla de Juan Cuamatzi",
+    "region": "C"
+  },
+  {
+    "cve": "29042",
+    "mun": "Xicohtzinco",
+    "region": "C"
+  },
+  {
+    "cve": "29043",
+    "mun": "Yauhquemehcan",
+    "region": "C"
+  },
+  {
+    "cve": "29044",
+    "mun": "Zacatelco",
+    "region": "C"
+  },
+  {
+    "cve": "29019",
+    "mun": "Tepetitla de Lardizábal",
+    "region": "C"
+  },
+  {
+    "cve": "29020",
+    "mun": "Sanctórum de Lázaro Cárdenas",
+    "region": "C"
+  },
+  {
+    "cve": "29021",
+    "mun": "Nanacamilpa de Mariano Arista",
+    "region": "C"
+  },
+  {
+    "cve": "29022",
+    "mun": "Acuamanala de Miguel Hidalgo",
+    "region": "C"
+  },
+  {
+    "cve": "29023",
+    "mun": "Natívitas",
+    "region": "C"
+  },
+  {
+    "cve": "29024",
+    "mun": "Panotla",
+    "region": "C"
+  },
+  {
+    "cve": "29025",
+    "mun": "San Pablo del Monte",
+    "region": "C"
+  },
+  {
+    "cve": "29026",
+    "mun": "Santa Cruz Tlaxcala",
+    "region": "C"
+  },
+  {
+    "cve": "29027",
+    "mun": "Tenancingo",
+    "region": "C"
+  },
+  {
+    "cve": "29028",
+    "mun": "Teolocholco",
+    "region": "C"
+  },
+  {
+    "cve": "29029",
+    "mun": "Tepeyanco",
+    "region": "C"
+  },
+  {
+    "cve": "29030",
+    "mun": "Terrenate",
+    "region": "C"
+  },
+  {
+    "cve": "29031",
+    "mun": "Tetla de la Solidaridad",
+    "region": "C"
+  },
+  {
+    "cve": "29032",
+    "mun": "Tetlatlahuca",
+    "region": "C"
+  },
+  {
+    "cve": "29033",
+    "mun": "Tlaxcala",
+    "region": "C"
+  },
+  {
+    "cve": "29034",
+    "mun": "Tlaxco",
+    "region": "C"
+  },
+  {
+    "cve": "29035",
+    "mun": "Tocatlán",
+    "region": "C"
+  },
+  {
+    "cve": "29036",
+    "mun": "Totolac",
+    "region": "C"
+  },
+  {
+    "cve": "29037",
+    "mun": "Ziltlaltépec de Trinidad Sánchez Santos",
+    "region": "C"
+  },
+  {
+    "cve": "29038",
+    "mun": "Tzompantepec",
+    "region": "C"
+  },
+  {
+    "cve": "29039",
+    "mun": "Xaloztoc",
+    "region": "C"
+  },
+  {
+    "cve": "29040",
+    "mun": "Xaltocan",
+    "region": "C"
+  },
+  {
+    "cve": "29041",
+    "mun": "Papalotla de Xicohténcatl",
+    "region": "C"
+  },
+  {
+    "cve": "29045",
+    "mun": "Benito Juárez",
+    "region": "C"
+  },
+  {
+    "cve": "29046",
+    "mun": "Emiliano Zapata",
+    "region": "C"
+  },
+  {
+    "cve": "29047",
+    "mun": "Lázaro Cárdenas",
+    "region": "C"
+  },
+  {
+    "cve": "29048",
+    "mun": "La Magdalena Tlaltelulco",
+    "region": "C"
+  },
+  {
+    "cve": "29054",
+    "mun": "San Lorenzo Axocomanitla",
+    "region": "C"
+  },
+  {
+    "cve": "29055",
+    "mun": "San Lucas Tecopilco",
+    "region": "C"
+  },
+  {
+    "cve": "29049",
+    "mun": "San Damián Texóloc",
+    "region": "C"
+  },
+  {
+    "cve": "29050",
+    "mun": "San Francisco Tetlanohcan",
+    "region": "C"
+  },
+  {
+    "cve": "29051",
+    "mun": "San Jerónimo Zacualpan",
+    "region": "C"
+  },
+  {
+    "cve": "29052",
+    "mun": "San José Teacalco",
+    "region": "C"
+  },
+  {
+    "cve": "29053",
+    "mun": "San Juan Huactzinco",
+    "region": "C"
+  },
+  {
+    "cve": "29056",
+    "mun": "Santa Ana Nopalucan",
+    "region": "C"
+  },
+  {
+    "cve": "29057",
+    "mun": "Santa Apolonia Teacalco",
+    "region": "C"
+  },
+  {
+    "cve": "29058",
+    "mun": "Santa Catarina Ayometla",
+    "region": "C"
+  },
+  {
+    "cve": "29059",
+    "mun": "Santa Cruz Quilehtla",
+    "region": "C"
+  },
+  {
+    "cve": "29060",
+    "mun": "Santa Isabel Xiloxoxtla",
+    "region": "C"
+  },
+  {
+    "cve": "30072",
+    "mun": "Huayacocotla",
+    "region": "C"
+  },
+  {
+    "cve": "30076",
+    "mun": "Ilamatlán",
+    "region": "C"
+  },
+  {
+    "cve": "30198",
+    "mun": "Zacualpan",
+    "region": "C"
+  },
+  {
+    "cve": "30202",
+    "mun": "Zontecomatlán de López y Fuentes",
+    "region": "C"
+  }
+]
